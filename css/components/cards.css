@@ -1,0 +1,29 @@
+/* Your card CSS file */
+
+.cards {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.card {
+  width: 200px;
+  border-radius: 4px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  padding: 20px;
+}
+
+.card img {
+  overflow: hidden;
+  object-fit: cover;
+  height: 100px;
+}
+
+.card h3 {
+  text-align: center;
+  font-size: 18px;
+}
+
+.card p {
+  text-align: center;
+  color: black;
+}
